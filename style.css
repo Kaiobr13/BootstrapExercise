@@ -1,0 +1,17 @@
+.h1{
+    color: darkkhaki;
+}
+
+.p{
+    color: darkkhaki;
+    padding-left: 10px;
+}
+
+h3{
+    padding-left: 50px;
+    color: darkkhaki;
+}
+
+body{
+    background-color: rgb(115, 107, 95);
+}
